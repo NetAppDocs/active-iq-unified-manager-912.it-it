@@ -7283,7 +7283,6 @@
   <block id="70ae6671c4af80b66aed53fe29669e3a" category="list-text">Pianificazione del failover</block>
   <block id="f9c8fac18b3da1813b2ca14686bfe627" category="paragraph">Per i nodi: Visualizza la stima dell'impatto delle performance su un nodo se il partner ha del nodo si guasta.</block>
   <block id="db64fe849687433673e899917e3f3715" category="paragraph">Per i volumi: Visualizza statistiche dettagliate sulle performance per tutte le attività e le operazioni di i/o per il carico di lavoro del volume selezionato. Questa scheda è disponibile per FlexVol Volumes, FlexGroup Volumes e i componenti di FlexGroup.</block>
-  <block id="91d9102f2b20d2487525cb47bf7d79a5" category="summary">Documentazione per Active IQ Unified Manager, documenti AIQUM, documenti UM</block>
   <block id="4a58c6ba2ac7cf0f2cd001d223b14e50" category="doc">Documentazione Active IQ Unified Manager</block>
   <block id="81ac2885f962fb24f4de3babbb42691e" category="summary">È possibile creare regole di annotazione utilizzate da Unified Manager per annotare dinamicamente oggetti di storage come volumi, cluster o macchine virtuali di storage (SVM).</block>
   <block id="8447ce78b2828f5afe95b0662ae31bda" category="doc">Creazione di regole di annotazione</block>
@@ -11831,7 +11830,6 @@
   <block id="ede607b26fd609858d7be7ff1e138cb0" category="sidebar">Documentazione per Active IQ Unified Manager 9.9 o versioni precedenti</block>
   <block id="ef4b00aa7f2b133711aca050ace6508d" category="sidebar">Documenti di Active IQ Unified Manager 9.12</block>
   <block id="f4a82a67b559f4b99078d99e20c3f730" category="sidebar">Documentazione per Active IQ Unified Manager 9.11</block>
-  <block id="85f73dd16ea214346164b0deea26773b" category="sidebar">Unified Manager</block>
   <block id="09d454f0bf432593d99fbfd84c9f9293" category="sidebar">Eseguire attività amministrative e di configurazione</block>
   <block id="d549fcac9e4340e7fb3d154a339f9c13" category="sidebar">Proteggere e ripristinare i dati</block>
   <block id="7daa41760e1a8fba65d06a1a254f35d9" category="sidebar">Creazione e risoluzione dei problemi delle relazioni di protezione</block>
@@ -11909,4 +11907,5 @@
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="db99ce16b5159248c143ce69889e1798" category="sidebar">Documentazione di Active IQ Unified Manager 9,12.</block>
 </blocks>
